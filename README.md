@@ -2,7 +2,7 @@
 
 ## Techs ⚙
 
-Confome está o projeto, atualizar quais tecnologias estamos utilizando
+Confome está o projeto, atualizar quais tecnologias estou utilizando
 
 * [Python](https://www.python.org/): Linguagem de programação de sintaxe simples;
 * [Mongodb](https://www.mongodb.com/): Bando de dados não relacional para armazenamento de informações, está sendo utilizado o banco diretamente no site;
