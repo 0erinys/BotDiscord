@@ -1,6 +1,6 @@
 # Hyung Bot 🦾
 
-<img src="/" >
+<img src="/assets/giphy.gif" >
 
 ## Techs ⚙
 
