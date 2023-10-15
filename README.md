@@ -1,5 +1,7 @@
 # Hyung Bot 🦾
 
+<img src="/" >
+
 ## Techs ⚙
 
 Confome está o projeto, atualizar quais tecnologias estou utilizando
