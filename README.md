@@ -1,5 +1,7 @@
 # Hyung Bot 🦾
 
+Esse é um projeto para criar o próprio bot de discord para o servidor, e aqui estão (até agora) algumas anotações sobre como eu estou montando meu próprio bot. <3
+
 <img src="/assets/giphy.gif" >
 
 ## Techs ⚙
